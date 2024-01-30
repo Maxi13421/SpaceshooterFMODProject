@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{79619c76-536b-4db1-a60b-a4c31555aec8}">
+		<property name="assetPath">
+			<value>FireSmall.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.65306122448979587</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2781b525-bd19-4d14-a1d4-049026dc94c1}</destination>
+		</relationship>
+	</object>
+</objects>

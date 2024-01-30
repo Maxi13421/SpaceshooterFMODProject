@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{af6951f8-50b3-4cef-884b-c07f3a74c0bf}">
+		<property name="assetPath">
+			<value>FireBig.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.36571428571428571</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2781b525-bd19-4d14-a1d4-049026dc94c1}</destination>
+		</relationship>
+	</object>
+</objects>
